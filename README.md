@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-This is a Tic tac toe application as it is ppular by the name X and 0
+This is a Tic tac toe application as it is popular by the name X and 0.
 This app has something special, it contains an integration with Firebase for SignUp and SignIn.
 You can surely use it and make your own variation.
 A few resources to get you started if this is your first Flutter project:
